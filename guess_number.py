@@ -1,3 +1,5 @@
+'''Additional comment'''
+
 from random import randint as rd
 
 guess_number = rd(1, 20)
